@@ -4,4 +4,9 @@ Barcelona é incomparavel, a capital da Catalunha, seduz, encanta, sendo a metro
 
 Nesta analise utilizou-se um conjunto de dados resumido da cidade, onde foram aplicadas técnicas básicas.
 
-na pasta DataSet encontra-se o arquivo utilizado
+Estrutura do projeto:
+
+- Pasta Dataset contem o conjunto de dados original
+- Analisando_os_Dados_do_Airbnb_Barcelona.ipynb - contém as analises e pode ser executado diretamente no google.colab.
+Criado usando o Colaboratory
+- README.md - este arquivo
